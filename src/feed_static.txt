@@ -1,0 +1,4 @@
+/testFiles/bye.html
+/testFiles/hi.html
+/testFiles/smallFile.html
+/testFiles/gatsby.html

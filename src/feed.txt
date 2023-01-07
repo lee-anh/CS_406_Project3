@@ -1,0 +1,8 @@
+/testFiles/bye.html
+/testFiles/hi.html
+/testFiles/smallFile.html
+/testFiles/gatsby.html
+/spin.cgi?2
+/spin.cgi?1
+/spin.cgi?3
+/spin.cgi?2
